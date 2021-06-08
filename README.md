@@ -1,4 +1,4 @@
-# Cloud-AWS-Azure-Google
+# Cloud-AWS-Azure-Google (WORK IN PROGRESS)
 How about having products / services from different cloud technologies mapped and have one line description for each?
 To start with, i have started listing down products/ services. 
 Provides comparative knowledge on products available in 3 major cloud technologies - AWS, Azure, Google.
